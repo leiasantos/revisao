@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,400;0,500;1,200;1,300&display=swap');
+*{
+    font-family: 'Poppins';
+    border: none;
+}
+body{
+    background-color: #E5CFF7;
+}
+
+table{
+    width: 600px;
+   
+}
+
+th,td{
+    border: 1px solid black;
+    padding: 10px;
+    text-align: left;
+}
+
+table thead{
+    background-color: aqua;
+}
+
+table tbody{
+    background-color: deeppink;
+}
+
+tbody tr:hover{
+    background-color: greenyellow;
+}
+
+ .linha .coluna{
+    border: 0;
+    background-color: #fff;
+}
+
+
+.format{
+    border-collapse:collapse;
+}
+
+.cabecalho {
+   border-top: 2px solid black ;
+   border-bottom: 2px solid black;
+}
+
+.total {
+    border-bottom: 2px solid black;
+ }
+

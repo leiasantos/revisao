@@ -1,0 +1,31 @@
+TAGS BÁSICAS
+
+Tags de cabeçalhos
+<h1></h1>
+<h2></h2>
+<h3></h3>
+<h4></h4>
+<h5></h5>
+<h6></h6>
+
+<p></p> tag de paragrafo
+
+
+<a href="#"></a>  tag de ancora (link)
+
+
+<img> tag de imagens 
+
+<button> tag de botão
+
+
+<br> tag de quebrar linha 
+
+
+
+Bordas
+solid | dotted | dashed | double
+
+border-radius
+
+Margins e Padding

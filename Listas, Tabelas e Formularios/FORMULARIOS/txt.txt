@@ -1,0 +1,20 @@
+
+<form action="" method=""></form>
+<label for="name"></label>  
+ <select name="" id=""></select>
+
+
+inputs:
+<input id="" type="text">
+
+
+<form> Define um formulário para inserção de dados
+<input> Define um campo de inserção de dados
+<textarea> Define uma area de texto
+<label> Define um rótulo
+<fieldset> Define um bloco de campos
+<legend> Define um título ou legenda para um bloco de campos
+<select> Define uma lista de seleção (caixa dropdown)
+<optgroup> Define um grupo de opções
+<option> Define uma opção em uma caixa dropdown
+<button> Define um botão

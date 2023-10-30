@@ -1,0 +1,37 @@
+
+*{
+    box-sizing: border-box ;
+    margin: 0;
+    padding: 0;
+}
+
+
+.exemplo{
+    background-color: deeppink;
+    width:100% ;
+    height:100px ;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
+
+.img{
+    width:500px ;
+    height:400px ;
+    background-color: blueviolet;
+}
+
+.img img{
+   max-width: 450px ;
+}
+
+.exemplo1{
+    background-color: chartreuse;
+    width: 400px;
+    height: 400px;
+    border: 5px solid black;
+    padding: 10px;
+    margin: 20px;
+}
